@@ -1,4 +1,4 @@
-# 《Matching papers and reviewers at large conferences》论文速览
+# Matching papers and reviewers at large conferences
 
 ## 1. 背景与动机
 
